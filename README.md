@@ -3,7 +3,7 @@ Anomaly Detection deployed on machine data dataset for Predictive Maintenance .
 
 NOTE : I have also included the code files for predictive maintainence using XGBoost , using LSTMs and using Autoencoders (seq2seq and CNN based ) which I learnt from Nvidia Deep learning course , in this repository . However , these were only included as a reference to readers on what other methods could be used and for the sake of completeness , and are not written by me . The code for multivariate gaussian method is written completely by me :)
 
-* Name - Ayush Agarwal 
+
 * Project - Predictive Maintainence Anomaly Detection 
 * Skills - Anomaly Detection, Multivariate Gaussian , Unsupervised Learning , Data Visualisation , Exploratory Data Analysis , Data Science , Machine Learning
 * Tools - Google Colab , Jupyter Notebooks , Python , Numpy , Pandas , Matplotlib , Seaborn , Sklearn
@@ -16,7 +16,6 @@ This can be deployed in an Industrial Internet of Things (IIoT) System , where t
 
 The data was taken from Kaggle site : https://www.kaggle.com/datasets/shivamb/machine-predictive-maintenance-classification .
 
-A copy of the dataset has been uploaded on this repository just in case the kaggle one gets changed : https://github.com/ayush-agarwal-0502/Machine-Predictive-Maintainence-Anomaly-Detection/blob/main/predictive_maintenance.csv .
 
 ## The Code :
 
